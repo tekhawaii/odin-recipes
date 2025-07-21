@@ -1,2 +1,3 @@
 # odin-recipes
-testing out github website hosting feature
+-test out github website hosting feature
+-apply basic html skills
